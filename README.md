@@ -17,7 +17,7 @@
  - ItemManager.cs
  - Item.cs
 
-### 4.　オブジェクトのインタラクション
+### 4. オブジェクトのインタラクション
  - Obtainable.cs
 
 ![movie_005kairyou1](https://github.com/user-attachments/assets/fb35e9e9-acb3-4739-aef4-16d5bd95dc45)

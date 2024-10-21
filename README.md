@@ -1,3 +1,6 @@
 # 3dGameSystem
 
-## 一部システムの説明
+## 一部システムのスクリプト
+
+## キャラクターコントロール
+PlayerMove.cs  Raycast_Mouseover.cs

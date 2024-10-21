@@ -2,6 +2,10 @@
 
 ## 一部システムのスクリプト
 
+## 使用技術
+ - 言語：C#
+ - エンジン：Unity
+
 ### 1. キャラクターコントロール
  - PlayerMove.cs  
  - Raycast_Mouseover.cs

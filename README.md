@@ -12,7 +12,7 @@
 
 ### 2. NPCの会話インタラクション
  - TextController.cs :UIテキストの表示や更新を管理します。ゲーム内のメッセージ情報を表示するために使用します。
- - Test1.cs
+ - Test1.cs :プレイヤーとのインタラクションを通じて、セリフやキャラクター名を動的に変更し、ゲーム体験を向上させる役割を果たします。
 
 ![movie_003kairyou1](https://github.com/user-attachments/assets/17173f83-b0c8-4c09-ab67-053c0505221a)
 

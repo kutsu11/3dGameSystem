@@ -16,3 +16,6 @@
  - ItemDataBase.cs
  - ItemManager.cs
  - Item.cs
+
+### 4.　オブジェクトのインタラクション
+ - Obtainable.cs

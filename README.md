@@ -2,8 +2,6 @@
  - 説明: 3Dホラーシュミレーションゲーム
  - url: https://store.steampowered.com/app/2583920/Ep/
 
-# 3dGameSystem
-
 ## 一部システムのスクリプト
 
 ### 使用技術
